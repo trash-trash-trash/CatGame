@@ -1,0 +1,268 @@
+1.0
+
+- added basic movement , jumping (must revisit)
+
+- Cat has 12 HP, represented as 3 hearts (identical to zelda, 3 hearts can be divided into 4 quarters per heart)
+
+- If it's HP drops below 0, it dies and loses a life.
+Cat starts with 9 lives. If it loses all 9 lives, the game is over.
+
+- added meow, sheathe and jump function
+
+- Meow is a function that will have contextual uses. Meow, hiss, purr, etc.
+
+- Sheathe is a boolean for determining if a cat's claws are in or out. If in the cat may "boop" harmlessly with it's attack. If out, it's claws deal damage and may evoke aggression. 
+Claws out will also assist in jumping, climbing and wallsliding.
+
+-- added crouching. if hold down while grounded, cat will crouch. holding crouch and jump with increase jump force. 
+crouching for too long will cause the cat to fall asleep (and disable jump for a little bit)
+
+1.1 
+
+-- made some trial walking animations in Aseprite
+
+-- made a trial NPC fat cat
+
+1.2
+
+-- added poopee int. poopee represents the cat's need to expel waste. 
+
+-- added poopee function. different type of excrement based how full the poopee meter is. from 25% full expels pee, which can be used to mark territory and zone NPC's. at starting at 65% defecate. 65 - 75% is small poo, 75 - 85% is medium, 85 - 100% is max size poo. 
+
+-- added left side/right side attacks. still need to added hitboxes etc. if that cat attacks while it's claws are in, it just does a non-voilent boop
+
+-- began work on "jump charge" move
+
+-- made an animated heart sprite to represent health. how to import into unity?
+
+1.3 
+
+-- researched more on importing into unity, "almost" got it
+
+-- created idle, walking and running animation sprites
+
+1.4
+
+-- updated movement system
+
+-- integrated animations (jump animation still buggy?)
+
+1.5 
+
+-- created Bulldog_NPC walking sprites
+
+-- created and refined lots of sprites and animations. added extra states for when ClawsOut
+
+-- refined a lot of animations, troubleshoot animation, still more to do
+
+-- added a "freeze the player in space" aspect to ClawsOut()
+
+1.6
+
+-- refined animation system
+
+-- refined animations
+
+-- troubleshooting bools and bugs
+
+1.7 
+
+-- added Life UI element and Life Text element, which disappear after a few seconds (figure out how to fade properly later)
+
+-- added Poopee meter, which is tied to the Poopee stat. Will be invisible but appear once Poopee gets higher (around 25)
+
+1.8
+
+-- added ClawsOut/ClawsIn UI element that reacts to the bool in realtime
+
+-- further refined animation and code
+
+-- added Attack animation
+
+1.9
+
+-- added and refined poo/pee code and animations. peeing now works as intended, tho I had to move some code around that may need to be revisited later.
+
+-- made small, medium and max poo sprites. cat can now poo.
+
+2.0
+
+-- added NPC_chickenbrown with several animations. idle, walk, angry, damaged. needs more in the future and also AI
+
+-- added basic melee attack functionality
+
+-- can boop chicken or kill it
+
+-- added pushforce to boop/attack but only goes in one direction (need to reverse somehow) FIXED!! 
+
+2.1 
+
+-- added white chicken clone NPC
+
+-- added basic chicken AI (chicken will randomly choose between patrolling between 2 points or idling)
+
+2.2
+
+-- added chick and egg sprite
+
+-- chickens now have the ability to lay eggs
+
+-- eggs have the ability to become chicks
+
+-- chicks are low tier chickens, mostly follow chickens around
+
+2.3
+
+-- animated egg
+
+-- fixed egg and egg laying behaviours
+
+-- chicks have the ability to become chickens
+
+2.4
+
+-- updated chicken NPC
+
+-- added kitten NPC
+
+-- drew test backgrounds, items
+
+2.4 
+
+"lvl 2-3" loser house
+
+The loser house has a monochromic gameboy colour scheme. It is generally run down, strewn with trash, stained, falling apart, etc. It is only accessible at night and has an attic that contains spooky spiders, which are contributing to the residents' distress.
+
+Objects include broken TV's, trash-bags, alcohol bottles, cups, video game controls and consoles, lewd and "cool" posters, broken appliances, etc. It is occupied by a single occupant, Steve, who is occasionally visited by his girlfriend.
+
+-- began work on interior level "loser house". added skybox (background layer 01)
+
+-- added misc. object melee logic. objects can be booped or attacked and destroyed. objects have a "bouncey" material to give them some life. player collision box ignores objects. some objects are flipped when booped.
+
+-- added sprites and animation for breakable beerstein object
+
+-- added sprites and animation for breakable ciderjug object
+
+-- added sprites and animations for breakable gamecontroller object
+
+-- added sprites and animation for an explosion effect. objects when destroyed spawn explosion effect
+
+-- tightened melee systems (still needs work)
+
+-- need to double check Boop Tracker logic and double check animation efficiency
+
+-- need to give the cat the ability to look up (moves camera up tempporarily)
+
+2.5
+
+-- added sprites and animation for breakable trashcan object. trashcan has a unique idle animation and may contain objects / NPC's, which have a random chance to spawn when trashcan is destroyed.
+
+-- updated trashcan sprite with a "loser house" variant, keeping the monochromic colour scheme
+
+-- added sprites and animation for breakable broken microwave object
+
+
+2.6
+
+-- added some sprites, animation and logic for NPC_greykitten
+
+-- addedsprites and animations for breakable pinup poster 01 object
+
+-- added sprites and animations for breakable pinup poster 02 object
+
+-- added sprites and animations for breakable beer bottle object
+
+-- updated trashcan object, gave trashcan object additional random items to drop on death
+
+-- updated ciderjug object
+
+2.7
+
+-- added some sprites, animation and logic for breakable CRTV object
+
+-- CTRV object cycles through various idle animations when booped
+
+2.8
+
+-- added breakable objects beer bottle 01 (empty beer bottle)
+
+-- minor fixes
+
+Started work on Level 02 "Chicken Farm". Chicken Farm is a rural farmstead with a rustic aesthetic. It is populated by chickens, chicks, roosters, mice, and a large bulldog.
+
+-- added breakable object flower 01
+
+-- updated breakable object chicken egg
+
+-- updated chicken NPC
+
+-- added a chicken farm variant of the object explosion sprite
+
+
+2.9
+
+-- updated breakable object flower 01
+
+-- added breakable object flower 02
+
+-- updated kitten NPC. NPC's can now walk horizontally and play various animations properly.
+
+-- added kitten NPC variant white kitten
+
+-- added NPC orange cat 01
+
+-- updated white kitten animations
+
+-- added NPC tortoise-shell kitten
+
+-- add scarecrow!
+
+-- kittens have unique abilities?
+
+3.0 
+
+-- added kitten NPC variant orange kitten
+
+-- added kitten NPC variant black kitten
+
+-- updated various kitten NPC animations and logic
+
+-- kittens can now drop from destroyed trash cans
+
+3.1
+
+-- added a test clock UI element and accompanying script using CodeMonkey tutorial (only one clock hand) https://youtu.be/pbTysQw-WNs
+
+-- certain things in-game events take place at a certain time of the day
+
+3.2
+
+-- implemented wall climbing and wall jumping. Player cat can wall jump like mario, or scale the sides of walls when claws are out.
+
+3.3
+
+-- added PlayerPrefs. Player Prefs are a powerful way of keeping track of important values. Cat PlayerPrefs include Maximum HP, information for unlocked moves, tracking lives lost, Quest lines, etc
+
+-- added a Pawsed sprite and logic. Pressing Escape now pauses the game. (must fix RealTime + Time.deltaTime issues)
+
+-- added NPCBase.cs. Started on universal NPCScript.cs for cleaner NPC prefabs
+
+3.4
+
+-- Added Main Menu Scene w/Start Game button
+
+-- Added Loading Scene. Game can now load between Scenes.
+
+-- Added Special Moves Enum to PlayerCat and shuffled some logic. Player Cat can now cycle between Equipped Special Moves. Special Moves may have different effects depending on if the Player has their claws out or not. For example, Meow while claws out is an aggressive hiss, but Meow while claws are in is a gentle meow or purr.
+ 
+ 3.5
+
+ -- Added corresponding Sprites for Special Moves. wrote logic to display sprites properly when equipped. (all works except Poopee image not loading correctly? -- fixed... PooPee was incorrectly capitalised when parsing its string thru PlayerCatMovement.cs > SpecialMoveString()
+
+ -- Fixed various aspects of the Player Prefab. rearranged canvas UI
+
+ -- Added CatGameSFXScript.cs
+ 
+ -- added Meow01 (Cat 1 by DiegoAngelGaming)
+
+ -- added Hiss01 (catHisses.wav by Zabuhailo)
