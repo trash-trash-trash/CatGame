@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 32a965aaa7655fe4098d7c0e9fca1489
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7529327637768608366
+    second: OBJ_trashcan_booped_0
+  - first:
+      213: 8783674107693894604
+    second: OBJ_trashcan_booped_1
+  - first:
+      213: -7854187300974438084
+    second: OBJ_trashcan_booped_2
+  - first:
+      213: -7525438623484132092
+    second: OBJ_trashcan_booped_3
+  - first:
+      213: -7703069444931220798
+    second: OBJ_trashcan_booped_4
+  - first:
+      213: -1101688158846022151
+    second: OBJ_trashcan_booped_5
+  - first:
+      213: 2031385445504288601
+    second: OBJ_trashcan_booped_6
+  - first:
+      213: 1123960867613670488
+    second: OBJ_trashcan_booped_7
+  - first:
+      213: -1379844669767828523
+    second: OBJ_trashcan_booped_8
+  - first:
+      213: -5690281451395176607
+    second: OBJ_trashcan_booped_9
+  - first:
+      213: 6817308769822372071
+    second: OBJ_trashcan_booped_10
+  - first:
+      213: -5308363271710459624
+    second: OBJ_trashcan_booped_11
+  - first:
+      213: 4680479020022311539
+    second: OBJ_trashcan_booped_12
+  - first:
+      213: 7594213124393615425
+    second: OBJ_trashcan_booped_13
+  - first:
+      213: 4656957604237478472
+    second: OBJ_trashcan_booped_14
+  - first:
+      213: 8470303660427138217
+    second: OBJ_trashcan_booped_15
+  - first:
+      213: 7114028692816732905
+    second: OBJ_trashcan_booped_16
+  - first:
+      213: 5934787804551612203
+    second: OBJ_trashcan_booped_17
+  - first:
+      213: -6905820445185555413
+    second: OBJ_trashcan_booped_18
+  - first:
+      213: 565201742767160131
+    second: OBJ_trashcan_booped_19
+  - first:
+      213: -4303217391171409533
+    second: OBJ_trashcan_booped_20
+  - first:
+      213: 4148341795803927832
+    second: OBJ_trashcan_booped_21
+  - first:
+      213: 7195586392855375646
+    second: OBJ_trashcan_booped_22
+  - first:
+      213: 4134944122230172806
+    second: OBJ_trashcan_booped_23
+  - first:
+      213: -4279533789721741625
+    second: OBJ_trashcan_booped_24
+  - first:
+      213: 7125015520554802218
+    second: OBJ_trashcan_booped_25
+  - first:
+      213: 1755302146713801949
+    second: OBJ_trashcan_booped_26
+  - first:
+      213: -2774645729573136909
+    second: OBJ_trashcan_booped_27
+  - first:
+      213: 4820656484012103610
+    second: OBJ_trashcan_booped_28
+  - first:
+      213: 1296482544392933440
+    second: OBJ_trashcan_booped_29
+  - first:
+      213: 8158882985010288471
+    second: OBJ_trashcan_booped_30
+  - first:
+      213: 7625790383902271886
+    second: OBJ_trashcan_booped_31
+  - first:
+      213: 4644873376400780142
+    second: OBJ_trashcan_booped_0
+  - first:
+      213: -7760428598284106461
+    second: OBJ_trashcan_booped_1
+  - first:
+      213: -5818361284495154051
+    second: OBJ_trashcan_booped_2
+  - first:
+      213: 4097055939468051386
+    second: OBJ_trashcan_booped_3
+  - first:
+      213: 3466573510063590445
+    second: OBJ_trashcan_booped_4
+  - first:
+      213: -5173186059331664048
+    second: OBJ_trashcan_booped_5
+  - first:
+      213: 8708435995527784088
+    second: OBJ_trashcan_booped_6
+  - first:
+      213: -6354351525488950555
+    second: OBJ_trashcan_booped_7
+  - first:
+      213: -8684201404494375733
+    second: OBJ_trashcan_booped_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ba90be9b7e57040800000000000000
+      internalID: 7529327637768608366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254e7e6e4b6d4490800000000000000
+      internalID: 8783674107693894604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e7ce1d37014fa0800000000000000
+      internalID: -7854187300974438084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c5e87baaabd830800000000000000
+      internalID: -7525438623484132092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c8e1f9d3ebb1030800000000000000
+      internalID: -7703069444931220798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057888010b62538b0800000000000000
+      internalID: -1101688158846022151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a8ae06649ad870800000000000000
+      internalID: 2031385445504288601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2054154fec0d7a0800000000000000
+      internalID: 1123960867613670488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJ_trashcan_booped_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41a2f55d48b7780800000000000000
+      internalID: -1379844669767828523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OBJ_trashcan_booped_6: 2031385445504288601
+      OBJ_trashcan_booped_0: 7529327637768608366
+      OBJ_trashcan_booped_1: 8783674107693894604
+      OBJ_trashcan_booped_4: -7703069444931220798
+      OBJ_trashcan_booped_7: 1123960867613670488
+      OBJ_trashcan_booped_5: -1101688158846022151
+      OBJ_trashcan_booped_3: -7525438623484132092
+      OBJ_trashcan_booped_2: -7854187300974438084
+      OBJ_trashcan_booped_8: -1379844669767828523
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

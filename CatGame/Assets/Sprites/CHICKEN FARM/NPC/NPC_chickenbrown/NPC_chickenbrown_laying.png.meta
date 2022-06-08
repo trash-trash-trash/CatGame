@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: b9b002ab2d9d5df48abda20a4172a689
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6125863893785685060
+    second: NPC_chickenbrown_laying_0
+  - first:
+      213: 8380912509659143126
+    second: NPC_chickenbrown_laying_1
+  - first:
+      213: -3023869611777373669
+    second: NPC_chickenbrown_laying_2
+  - first:
+      213: -8019715923931438220
+    second: NPC_chickenbrown_laying_3
+  - first:
+      213: -9187193666653637016
+    second: NPC_chickenbrown_laying_4
+  - first:
+      213: -4898903427351393077
+    second: NPC_chickenbrown_laying_5
+  - first:
+      213: -2575043827297205278
+    second: NPC_chickenbrown_laying_6
+  - first:
+      213: 1931999700850077314
+    second: NPC_chickenbrown_laying_7
+  - first:
+      213: -601366297496811962
+    second: NPC_chickenbrown_laying_8
+  - first:
+      213: 7163400738648229399
+    second: NPC_chickenbrown_laying_9
+  - first:
+      213: 5576538264887797506
+    second: NPC_chickenbrown_laying_10
+  - first:
+      213: 2952473720332805663
+    second: NPC_chickenbrown_laying_11
+  - first:
+      213: -6959890444117687207
+    second: NPC_chickenbrown_laying_12
+  - first:
+      213: 1107176315278682370
+    second: NPC_chickenbrown_laying_13
+  - first:
+      213: -249847579750174927
+    second: NPC_chickenbrown_laying_14
+  - first:
+      213: 537785253576023337
+    second: NPC_chickenbrown_laying_15
+  - first:
+      213: 7156671767547148448
+    second: NPC_chickenbrown_laying_0
+  - first:
+      213: -6252983300958178848
+    second: NPC_chickenbrown_laying_1
+  - first:
+      213: -6060235253038538605
+    second: NPC_chickenbrown_laying_2
+  - first:
+      213: -6754532450515879674
+    second: NPC_chickenbrown_laying_3
+  - first:
+      213: 8477971241755755847
+    second: NPC_chickenbrown_laying_4
+  - first:
+      213: -4151038600675597599
+    second: NPC_chickenbrown_laying_5
+  - first:
+      213: 2045294933288043499
+    second: NPC_chickenbrown_laying_6
+  - first:
+      213: 2989082590389922996
+    second: NPC_chickenbrown_laying_7
+  - first:
+      213: -3354535505539494077
+    second: NPC_chickenbrown_laying_8
+  - first:
+      213: -7259673876739172584
+    second: NPC_chickenbrown_laying_9
+  - first:
+      213: 5411778957049143937
+    second: NPC_chickenbrown_laying_10
+  - first:
+      213: 2351524209442473446
+    second: NPC_chickenbrown_laying_11
+  - first:
+      213: 6263179057556721980
+    second: NPC_chickenbrown_laying_12
+  - first:
+      213: -2300009013502748697
+    second: NPC_chickenbrown_laying_13
+  - first:
+      213: 3276092746250660544
+    second: NPC_chickenbrown_laying_14
+  - first:
+      213: 1890064323087007953
+    second: NPC_chickenbrown_laying_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f6be0e0b915360800000000000000
+      internalID: -6125863893785685060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e130f741d0f839a0800000000000000
+      internalID: 8380912509659143126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a6575528b5eba0800000000000000
+      internalID: -3023869611777373669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f627f5841342a0800000000000000
+      internalID: -8019715923931438220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74544d81dedc7a570800000000000000
+      internalID: -9187193666653637016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2ebc5c26c8466c0800000000000000
+      internalID: -4898903427351393077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be34a87c7e8526c10800000000000000
+      internalID: -2575043827297205278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcee7477ca5b7920800000000000000
+      internalID: 1931999700850077314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f02e51bbb4271d0800000000000000
+      internalID: -601366297496811962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81757cf8215704b90800000000000000
+      internalID: 7163400738648229399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18229d1e9408a1b40800000000000000
+      internalID: 5576538264887797506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5cc804fca42a020800000000000000
+      internalID: 2952473720332805663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31955a4b284be650800000000000000
+      internalID: -6959890444117687207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d8f9fcf9b410e0800000000000000
+      internalID: 1107176315278682370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2187cef4077d20800000000000000
+      internalID: -249847579750174927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_chickenbrown_laying_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08d34ec7bda3a10800000000000000
+      internalID: 537785253576023337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NPC_chickenbrown_laying_10: 5576538264887797506
+      NPC_chickenbrown_laying_15: 537785253576023337
+      NPC_chickenbrown_laying_11: 2952473720332805663
+      NPC_chickenbrown_laying_6: -2575043827297205278
+      NPC_chickenbrown_laying_1: 8380912509659143126
+      NPC_chickenbrown_laying_14: -249847579750174927
+      NPC_chickenbrown_laying_4: -9187193666653637016
+      NPC_chickenbrown_laying_2: -3023869611777373669
+      NPC_chickenbrown_laying_8: -601366297496811962
+      NPC_chickenbrown_laying_12: -6959890444117687207
+      NPC_chickenbrown_laying_7: 1931999700850077314
+      NPC_chickenbrown_laying_5: -4898903427351393077
+      NPC_chickenbrown_laying_9: 7163400738648229399
+      NPC_chickenbrown_laying_0: -6125863893785685060
+      NPC_chickenbrown_laying_13: 1107176315278682370
+      NPC_chickenbrown_laying_3: -8019715923931438220
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
